@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'hn-perf-config-01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B60D44C25F264BB48BFE866707E675B7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4CED462814D347FBBB322100267D9AD8 }}
           package: .
